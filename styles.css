@@ -1,0 +1,109 @@
+h1, h1, h3, h4 {
+	font-family: 'Oswald', sans-serif;
+}
+
+.pr-titu {
+	font-family: 'Oswald', sans-serif;
+}
+
+.entry-content p {
+	font-family: 'Raleway', sans-serif;
+}
+
+.pr-texto {
+	margin-top: 30px;
+	font-weight: 600;
+	font-size: 3rem;
+	font-family: 'Raleway', sans-serif;
+}
+
+.pr-fecha {
+	font-family: 'Raleway', sans-serif;
+}
+
+.pr-cta a {
+	font-family: 'Oswald', sans-serif;
+	font-size: 2.5rem;
+	text-transform: none;
+}
+
+figcaption {
+	text-align: center;
+	color: #024456 !important;
+}
+
+.sm-titu {
+	font-family: 'Oswald', sans-serif;
+}
+
+.sm-texto {
+	margin-top: 30px;
+}
+
+.sm {
+	font-size: 2.7rem;
+}
+
+#site-header {
+	background-color: transparent;
+	background-image: url('https://2020.bilbao.wordcamp.org/files/2020/02/fondo-menu.png');
+	background-size: contain;
+	height: 250px;
+}
+
+#site-content {
+	margin-top: -25px;
+}
+
+.site-logo img {
+	max-height: 16rem;
+}
+
+.singular .entry-header {
+	padding: 5rem 0;
+}
+
+.post-inner {
+	padding-top: 4rem;
+}
+
+.entry-content h1, .entry-content h2, .entry-content h3 {
+	margin: 1rem auto 0;
+}
+
+.post-135 {
+	margin-top: -100px !important;
+}
+
+#post-135 .entry-header {
+	display: none;
+}
+
+#post-135 .post-inner {
+	padding-top: 0;
+	background-color: #ffffff;
+}
+
+.site-description {
+	display: none;
+}
+
+.primary-menu li a {
+	margin-left: 30px;
+	font-size: 1.3em;
+	font-weight: 600;
+	font-family: 'Oswald', sans-serif;
+	color: #004e68 !important;
+}
+
+.sub-menu li a {
+	color: #024456 !important;
+	font-size: 2rem;
+	font-weight: 500;
+}
+
+@media (max-width: 1220px) {
+	.post-135 {
+		margin-top: 0 !important;
+	}
+}
